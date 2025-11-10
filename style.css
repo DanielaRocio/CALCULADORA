@@ -139,7 +139,10 @@ body {
   box-shadow: 0 6px 0 rgba(0,0,0,0.35), inset 0 -3px rgba(255,255,255,0.06);
   color: #ffffff;
 }
-
+.index-title {
+  color: #ffffff; /* blanco */
+  text-align: center; /* opcional, si quieres centrarlo */
+}
 /* ============================= */
 /* Responsive: pantallas mayores a 480px */
 /* ============================= */
@@ -148,3 +151,4 @@ body {
     max-width: 320px;                   /* Ajusta ancho máximo */
   }
 }
+
